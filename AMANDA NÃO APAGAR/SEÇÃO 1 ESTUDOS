@@ -1,1 +1,19 @@
-EU TO COM VERGONHA DE FALAR QUE EU QUE FIZ A SENHA DELA, NÃO VOU FALAR KKKKK meu que burra eu
+05/03/24
+
+Criação de um Repositírio pelo github
+
+Fizemos a criaçãop de um repositorio, criando um repositorio, vai na pasta que tem seus arquivos salvos clique com o botão direito do mouse, selecione a opção open git bash here (se não tiver precisa baixar), assim que abrir a telinha preta confirme se o git esta como master...
+
+*O "git add ." é um comendo para adicionar pastar que não estão no comando do git
+*O "git config user.name 'nome do user criado' serve para configurar a informação que quer trazer no nome
+*O "git config user.email 'nome do user criado' serve para configurar a informação que quer trazer no e-mail
+* O "git config --global credential.user.
+* git commit -m "Commit inicial" mostra tudo o que subiu
+* git push | ele vai abrir para voce fazer o ogin
+* git pull 
+*git add . pega tudo o que você fez e junta
+
+
+DENTRO DO ECLIPSE VIMOS O QUE É DECURAÇÃO E COMO APLICAR
+
+para ajustar o comando no eclipse aperte ctrl + shift + F
