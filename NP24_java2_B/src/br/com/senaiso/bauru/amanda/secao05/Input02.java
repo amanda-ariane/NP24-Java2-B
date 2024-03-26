@@ -1,4 +1,4 @@
-package br.com.senaiso.bauru.amanda.secao05;
+package br.com.senaisp.bauru.richard.secao05;
 
 import javax.swing.JOptionPane;
 
@@ -11,7 +11,7 @@ public class Input02 {
                 JOptionPane.INFORMATION_MESSAGE);
 
         
-        String input1 = (String)JOptionPane.showInputDialog(null,
+        String input1 = (String) JOptionPane.showInputDialog(null,
                 "Is this a question?",
                 "Dialog Title",
                 JOptionPane.QUESTION_MESSAGE,
